@@ -2,6 +2,8 @@
 
 Custom firmware for my [GrovePi](http://www.dexterindustries.com/GrovePi/) by Dexter Industries
 
+![My GrovePi](my_grovepi.jpg)
+
 
 ## Versions
 
